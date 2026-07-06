@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "servers_de_sql_practice_server_name": {
+            "value": null
+        },
+        "storageAccounts_destoragepractice_name": {
+            "value": null
+        }
+    }
+}
